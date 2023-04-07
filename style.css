@@ -46,6 +46,14 @@ nav ul li a {
   font-size: 14px;
   line-height: 28px;
   color: #FFFFFF;
+
+  border-radius: 2px;
+}
+
+nav ul li a:hover {
+  font-weight: 700;
+  background: #00BFA6;
+
 }
 
 main {
